@@ -1,19 +1,25 @@
-# 🧠 GEN AI Project
+# 🧠 GEN AI with LangChain – CampusX Inspired
 
-This repository contains a Generative AI (GenAI) project that uses state-of-the-art transformer models to generate content such as text, code, images, or responses for chatbot-like interactions.
+This repository documents my learning journey of **Generative AI** with **LangChain**, following tutorials and guidance from [CampusX](https://www.youtube.com/c/CampusXOfficial). The project includes mini-apps, experiments, and use cases demonstrating how to build intelligent, LLM-powered systems using Python.
 
-## 🚀 Features
+---
 
-- Text generation using large language models (LLMs)
-- Model fine-tuning and experimentation
-- Gradio-based interactive demo interface
-- Pythonic and modular codebase for easy customization
+## 📚 Topics Covered
 
-## 🛠 Tech Stack
+- Basics of LLMs and Prompt Engineering
+- LangChain components: Chains, Agents, Tools
+- Building conversational chatbots
+- Retrieval-Augmented Generation (RAG) using custom data
+- Integration with OpenAI, Hugging Face, FAISS
+- Deploying LangChain apps with Gradio or Streamlit
 
-- Python
-- Hugging Face Transformers
-- PyTorch / TensorFlow
-- Gradio / Streamlit
-- Jupyter Notebooks (for prototyping)
+---
 
+## ⚙️ Tech Stack
+
+- `Python 3.10+`
+- [`LangChain`](https://www.langchain.com/)
+- `OpenAI API` or `Hugging Face Transformers`
+- `FAISS` for vector similarity search
+- `Gradio` or `Streamlit` (for UI)
+- `ChromaDB` or `Weaviate` (optional vector DB)
