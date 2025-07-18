@@ -17,9 +17,3 @@ This repository contains a Generative AI (GenAI) project that uses state-of-the-
 - Gradio / Streamlit
 - Jupyter Notebooks (for prototyping)
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/gen-ai-project.git
-cd gen-ai-project
-pip install -r requirements.txt
