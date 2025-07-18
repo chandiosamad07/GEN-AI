@@ -1,2 +1,25 @@
-# GEN-AI
-A Generative AI project leveraging transformer-based models for creating human-like text and/or media content. This project explores deep learning techniques using libraries like Hugging Face Transformers, PyTorch, and Gradio to build intelligent and creative AI systems
+# 🧠 GEN AI Project
+
+This repository contains a Generative AI (GenAI) project that uses state-of-the-art transformer models to generate content such as text, code, images, or responses for chatbot-like interactions.
+
+## 🚀 Features
+
+- Text generation using large language models (LLMs)
+- Model fine-tuning and experimentation
+- Gradio-based interactive demo interface
+- Pythonic and modular codebase for easy customization
+
+## 🛠 Tech Stack
+
+- Python
+- Hugging Face Transformers
+- PyTorch / TensorFlow
+- Gradio / Streamlit
+- Jupyter Notebooks (for prototyping)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/gen-ai-project.git
+cd gen-ai-project
+pip install -r requirements.txt
